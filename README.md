@@ -51,7 +51,7 @@ This repository contains the completed projects for the Alfido Tech Machine Lear
 
    ```bash
    git clone https://github.com/udaykumar0515/Alfido-Tech-Internship
-   
+
 2. Navigate to the task folder you want to run, e.g.:
 
    ```bash
@@ -88,6 +88,4 @@ Thanks to Alfido Tech for the opportunity to grow and learn through this interns
 ---
 
 © 2025 Haibathi Udaykumar
-
-```
 
