@@ -50,8 +50,8 @@ This repository contains the completed projects for the Alfido Tech Machine Lear
 1. Clone this repository:
 
    ```bash
-   git clone <repository-url>
-
+   git clone https://github.com/udaykumar0515/Alfido-Tech-Internship
+   
 2. Navigate to the task folder you want to run, e.g.:
 
    ```bash
@@ -76,7 +76,7 @@ This repository contains the completed projects for the Alfido Tech Machine Lear
 
 For any questions or clarifications, feel free to reach out:
 
-* **Email:** [udaykumarhaibathi@gmial.com](mailto:udaykumarhaibathi@gmial.com)
+* **Email:** [udaykumarhaibathi@gmail.com](mailto:udaykumarhaibathi@gmail.com)
 * **LinkedIn:** \[[udaykumar_linkedin](https://www.linkedin.com/in/uday-kumar-haibathi-311b66322/)]
 
 ---
