@@ -1,6 +1,4 @@
 
----
-
 ````markdown
 # Alfido Tech Internship - Machine Learning Projects
 
@@ -95,6 +93,4 @@ Thanks to Alfido Tech for the opportunity to grow and learn through this interns
 © 2025 Haibathi Udaykumar
 
 ```
-
----
 
