@@ -1,5 +1,3 @@
-
-````markdown
 # Alfido Tech Internship - Machine Learning Projects
 
 **Candidate:** Haibathi Udaykumar  
@@ -53,7 +51,6 @@ This repository contains the completed projects for the Alfido Tech Machine Lear
 
    ```bash
    git clone <repository-url>
-````
 
 2. Navigate to the task folder you want to run, e.g.:
 
